@@ -1,5 +1,8 @@
 # PHILOSOPHY OF TECHNOLOGY
 > Inspiration: American Philosophy of Technology: The Empirical Turn | Robert P.Crease
+* Thought|Language|Technology = The 3 are equaly Technolgy - for me
+* Tools accepted universally to shape/change society behaviour/direction/possibilites
+* The device paradygm
 > [Stanford Philosophy University](https://plato.stanford.edu/entries/technology/)
 ## REALITY AS DATA
 
@@ -42,3 +45,11 @@ I propose to create an introductory course for kids about DATA:
     * Defining and visualizing the news Lenses we use with some examples to end
 
 Would be great to create a small course on that for early ages and HS students with different platforms
+
+Relating to the difference between data discovery in:
+* Data Science
+* Computer Science
+It is important to distinguish the fact that data playing a central role on both disciplines the one that is closes to KCJ is the Computer Science:
+* Data types
+* Data structures
+* Internet - Data objects
