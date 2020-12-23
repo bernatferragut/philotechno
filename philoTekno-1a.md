@@ -46,10 +46,27 @@ I propose to create an introductory course for kids about DATA:
 
 Would be great to create a small course on that for early ages and HS students with different platforms
 
-Relating to the difference between data discovery in:
-* Data Science
-* Computer Science
+---
+# Teaching about Data
+
+When devloping content about data introduction and discovery it is important to remember the difference between data in:
+* Data Science - Statistics - Probabilites - %
+* Computer Science - Types - Structures - Objects
 It is important to distinguish the fact that data playing a central role on both disciplines the one that is closes to KCJ is the Computer Science:
 * Data types
 * Data structures
 * Internet - Data objects
+
+---
+# Inner Data Diamond
+
+* Teach| Perform
+* Crypto | Dev
+* Big | Hodl
+**PHILO | TEKNO**
+* Small | Trade
+* Dev | MediArt
+* Meditation | Spirit
+
+
+
