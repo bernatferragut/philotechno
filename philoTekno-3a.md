@@ -19,7 +19,7 @@ Traditional Schools put emphasis on :
 _[N.CHOMSKY: LANGUAGE AQUISITION]-> To explore_ Natural Language creation
 
 [J.PIAGET - CONSTRUCTIVISM](https://courses.lumenlearning.com/educationalpsychology/chapter/cognitive-development-the-theory-of-jean-piaget/)
-### The object as the 'story|link' to create cognitive structures
+### The object as the 'story|link' to create cognitive structures | Accomodation and assimilation
 
 * The sensorimotor stage: birth to age 2 
 > _Stability : Object Permanence_
@@ -32,6 +32,8 @@ _[N.CHOMSKY: LANGUAGE AQUISITION]-> To explore_ Natural Language creation
 > _Conservation_
 * The formal operational stage: age 11 and beyond | Operate on forms and representations
 > _Hypothetical reasoning_ Manipulate complex ideas in their minds | Many adults do not reach Formal Thinking
+> _Teacher must be more on the ASKING questions to discover how to thinking works._
+* [Constructivism](https://www.teach-nology.com/currenttrends/constructivism/piaget/)
 
 _[Vygotsky: Zone of Proximal Development]-> To explore_ Social Learning
 
